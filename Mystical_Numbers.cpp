@@ -107,7 +107,6 @@ int main() {
 	        int ans=(e-s+1)-cn;
 	        cout<<ans<<endl;
 	    }
-	    
 	}
 	return 0;
 }
